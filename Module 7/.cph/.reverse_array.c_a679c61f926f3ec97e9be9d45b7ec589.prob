@@ -1,0 +1,1 @@
+{"name":"Local: reverse_array","url":"e:\\C Programming Recap\\Module 7\\reverse_array.c","tests":[{"id":1769495360282,"input":"5\n2 3 4 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming Recap\\Module 7\\reverse_array.c","group":"local","local":true}
