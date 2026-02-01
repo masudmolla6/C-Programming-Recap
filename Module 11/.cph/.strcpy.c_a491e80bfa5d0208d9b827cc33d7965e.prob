@@ -1,0 +1,1 @@
+{"name":"Local: strcpy","url":"e:\\C Programming Recap\\Module 11\\strcpy.c","tests":[{"id":1769932935278,"input":"Orange Apple","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming Recap\\Module 11\\strcpy.c","group":"local","local":true}
