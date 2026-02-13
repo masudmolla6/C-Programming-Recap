@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void fun(int num){
     if (num==6)
     {
@@ -7,6 +8,7 @@ void fun(int num){
     printf("%d\n", num);
     fun(num+1);
 }
+
 int main() {
     int num=1;
     fun(num);
