@@ -1,0 +1,1 @@
+{"name":"Local: 2d_array","url":"e:\\C Programming Recap\\Module 18\\2d_array.c","tests":[{"id":1771044801192,"input":"3 3\n1 2 4\n5 6 7\n3 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming Recap\\Module 18\\2d_array.c","group":"local","local":true}
