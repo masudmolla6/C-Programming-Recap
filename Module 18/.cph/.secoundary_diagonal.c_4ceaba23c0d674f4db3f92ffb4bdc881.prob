@@ -1,0 +1,1 @@
+{"name":"Local: secoundary_diagonal","url":"e:\\C Programming Recap\\Module 18\\secoundary_diagonal.c","tests":[{"id":1771077739120,"input":"3 3\n0 0 1\n0 2 0\n3 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming Recap\\Module 18\\secoundary_diagonal.c","group":"local","local":true}
