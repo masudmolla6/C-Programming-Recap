@@ -1,0 +1,1 @@
+{"name":"Local: checking_matrix","url":"e:\\C Programming Recap\\Module 18\\checking_matrix.c","tests":[{"id":1771051311260,"input":"3 3\n2 3 4\n3 2 4\n6 3 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C Programming Recap\\Module 18\\checking_matrix.c","group":"local","local":true}
